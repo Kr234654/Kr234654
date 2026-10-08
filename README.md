@@ -1,14 +1,13 @@
-## Hi there 👋
 # Hi, I'm Kajal Rani 👋
 
 Python & React developer from Varanasi. B.Tech CSE (AI & ML) graduate, looking for a fresher web developer role.
 I build API-driven web apps and write tests for them.
 
 ## What I work with
-**Backend:** Python, Django, Django REST Framework, FastAPI, WebSockets
-**Frontend:** React, JavaScript, HTML, CSS
-**Data & Tools:** PostgreSQL, SQLite, Git, pytest, Postman
-**AI:** LangGraph, RAG, OpenAI / Groq APIs
+- **Backend:** Python, Django, Django REST Framework, FastAPI, WebSockets
+- **Frontend:** React, JavaScript, HTML, CSS
+- **Data & Tools:** PostgreSQL, SQLite, Git, pytest, Postman
+- **AI:** LangGraph, RAG, OpenAI / Groq APIs
 
 ## Projects I'm proud of
 - **[LabLens](https://github.com/Kr234654/lablens-1-)**: reads a blood report (PDF/text), extracts 30+ values with regex, checks them against reference ranges and answers questions using RAG. 22 pytest tests.
